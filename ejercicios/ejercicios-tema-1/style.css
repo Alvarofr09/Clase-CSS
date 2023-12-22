@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+ol {
+	color: blue;
+}
+
+section {
+	color: blue;
+}
+
+.container {
+	border: 1px solid black;
+	padding: 40px;
+	background-color: #f2f2f2;
+	border-radius: 10px;
+}
+
+p {
+	color: red;
+}
+p.texto {
+	font-size: 21px;
+}
+
+#texto1 {
+	background-color: aqua;
+}
+
+#texto2 {
+	background-color: black;
+}
+
+#texto3 {
+	background-color: blueviolet;
+}
+
+#texto4 {
+	background-color: green;
+}
+
+#texto5 {
+	background-color: yellow;
+}
+
+.item {
+	padding-bottom: 10px;
+}
+
+.btn {
+	padding: 10px 20px;
+	color: ghostwhite;
+	border: none;
+	border-radius: 20px;
+	background-color: chocolate;
+}
