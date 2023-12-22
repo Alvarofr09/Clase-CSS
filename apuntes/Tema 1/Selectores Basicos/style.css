@@ -1,0 +1,34 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/* Selector de tipo */
+h1 {
+	color: blue;
+}
+
+p {
+	color: green;
+}
+
+button {
+	color: white;
+	background-color: blue;
+}
+
+/* Selector de id */
+#titular {
+	color: orange;
+}
+
+#subtitular {
+	color: aqua;
+}
+
+/* Selector de clase */
+.btn-primary {
+	background-color: aquamarine;
+	color: black;
+}
