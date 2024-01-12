@@ -1,0 +1,56 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	padding: 40px;
+	font-size: 16px;
+	color: coral;
+	line-height: 135%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Times New Roman", Times, serif;
+	letter-spacing: 3px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.u-ff-primary {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.u-ff-secondary {
+	font-family: "Times New Roman", Times, serif;
+}
+
+.u-bg-color-primary {
+	background-color: aqua;
+}
+
+.u-color-primary {
+	color: black;
+}
+
+.u-bg-color-secondary {
+	background-color: black;
+}
+
+.u-color-secondary {
+	color: white;
+}
+
+.card {
+	padding: 40px;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
