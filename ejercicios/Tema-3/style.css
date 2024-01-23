@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	padding: 0 1rem;
+	margin: 0 auto;
+}
+
+.btn {
+	padding: 16px 24px;
+	border-radius: 16px;
+	border: 0px;
+}
+
+.btn-primary {
+	background-color: #00a6fb;
+	color: white;
+}
+
+.btn-secondary {
+	background-color: #edf4f7;
+	color: #051923;
+}
+
+.header_carrito {
+	position: relative;
+}
+
+.bullet {
+	border-radius: 50%;
+	background-color: rgb(185, 22, 22);
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.listaHorizontal li {
+	display: inline-block;
+}
+
+.footerRS {
+	padding: 144px 0;
+	background-color: #051923;
+	color: white;
+}
