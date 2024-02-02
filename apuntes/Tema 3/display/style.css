@@ -1,0 +1,32 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	display: block;
+	margin: 40px;
+	padding: 40px;
+	background-color: bisque;
+}
+
+/* Display inline */
+/* .item {
+	display: inline;
+	padding: 10px;
+} */
+
+/* Display inline-block */
+/* .item {
+	display: inline-block;
+	padding: 10px;
+} */
+
+/* Display block */
+.item {
+	display: block;
+	padding: 10px;
+	width: 50%;
+	float: left;
+}
